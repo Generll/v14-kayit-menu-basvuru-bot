@@ -1,0 +1,31 @@
+{
+  "name": "kayit-menu-basvuru-bot",
+  "version": "1.0.0",
+  "description": "Alın kullanın iste olm beles altyapı xd deneme amaclı kodlamıstım sonradan paylasma kararı aldım hatasızdır istediginiz gibi kullanın iyi kodlamalar/calmalar",
+  "main": "general.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Generll/v14-kayit-menu-basvuru-bot.git"
+  },
+  "keywords": [
+    "general",
+    "kayıt",
+    "destek",
+    "basvuru",
+    "menu",
+    "rol-menu"
+  ],
+  "author": "General",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Generll/v14-kayit-menu-basvuru-bot/issues"
+  },
+  "homepage": "https://github.com/Generll/v14-kayit-menu-basvuru-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "orio.db": "^3.1.2"
+  }
+}
